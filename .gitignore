@@ -1,0 +1,9 @@
+# Course data and materials - not to be shared outside the course
+*.csv
+*.pdf
+
+# System / editor files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
